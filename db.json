@@ -1,0 +1,32 @@
+{
+  "allStudents": [
+    {
+      "id": "e8ba",
+      "registerNumber": "LSNG191201",
+      "name": "Adersh Kv",
+      "age": "15",
+      "division": "9A"
+    },
+    {
+      "id": "4947",
+      "registerNumber": "LSNG191202",
+      "name": "Arya Kv",
+      "age": "15",
+      "division": "9A"
+    },
+    {
+      "id": "b1c5",
+      "registerNumber": "LSNG191203",
+      "name": "Alankritha C ",
+      "age": "15",
+      "division": "9A"
+    },
+    {
+      "id": "a854",
+      "registerNumber": "LSNG191204",
+      "name": "Ben",
+      "age": "15",
+      "division": "9A"
+    }
+  ]
+}
